@@ -9,6 +9,7 @@
           src="../assets/css-background-effects-thumb.jpg" 
           class="align-center"
         >
+        <h1>dhgffjhgfty</h1>
           <v-btn
             v-if="drawerButton"
             icon
